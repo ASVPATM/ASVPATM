@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ASVPATM
-- I'm currently an undergraduate student
 - I'll try to keep updating this with any new projects I'm working on
 - 
 -
